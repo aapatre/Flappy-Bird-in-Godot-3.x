@@ -1,6 +1,6 @@
 # Flappy Bird in Godot 3.x
 
-Flappy Bird clone made using Godot 3.2.2
+Flappy Bird clone made using Godot 3.2.3
 
 Live demo: https://theguyfromspace.itch.io/flappybird
 
